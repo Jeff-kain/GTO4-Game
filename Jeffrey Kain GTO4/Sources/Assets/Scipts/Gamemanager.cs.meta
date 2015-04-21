@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5e291aa6eb58c5e4798d71ddc153c499
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Warrior: {fileID: 139722, guid: c22d68d9c3b1af14581455b8d2f60e25, type: 2}
+  - Mage: {fileID: 151500, guid: 7e6a8f4d54f24ca4a9389076a821618b, type: 2}
+  - Archer: {fileID: 145126, guid: 28a3d96c78511b34c9a8a950974dea7a, type: 2}
+  - Paladin: {fileID: 113752, guid: c8bb791fab06f024f92346cc29efcc70, type: 2}
+  - Tile: {instanceID: 0}
+  - PlayerPrefab: {instanceID: 0}
+  - SelectedObject: {instanceID: 0}
+  - HL_P1: {instanceID: 0}
+  - HL_P2: {instanceID: 0}
+  - MatPlayer1: {instanceID: 0}
+  - MatPlayer2: {instanceID: 0}
+  - GridSelect: {instanceID: 0}
+  - Startpos: {instanceID: 0}
+  - Endpos: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

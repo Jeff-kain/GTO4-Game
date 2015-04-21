@@ -1,0 +1,28 @@
+Initialize engine version: 4.6.3f1 (4753d8b6ef2b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M      (ID=0x1391)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jeffrey\Documents\Jeffrey Kain GTO4\GTO4 Game J.K_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jeffrey\Documents\Jeffrey Kain GTO4\GTO4 Game J.K_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jeffrey\Documents\Jeffrey Kain GTO4\GTO4 Game J.K_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jeffrey\Documents\Jeffrey Kain GTO4\GTO4 Game J.K_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jeffrey\Documents\Jeffrey Kain GTO4\GTO4 Game J.K_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\jeffrey\Documents\Jeffrey Kain GTO4\GTO4 Game J.K_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\jeffrey\Documents\Jeffrey Kain GTO4\GTO4 Game J.K_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jeffrey\Documents\Jeffrey Kain GTO4\GTO4 Game J.K_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\jeffrey\Documents\Jeffrey Kain GTO4\GTO4 Game J.K_Data\Managed\System.Core.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Lightmap-AddPass' - Pass 'FORWARD' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Lightmap-AddPass' - Setting to default shader.
+Shader 'Hidden/TerrainEngine/Splatmap/Lightmap-FirstPass': fallback shader 'VertexLit' not found
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Lightmap-FirstPass' - Pass 'FORWARD' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Splatmap/Lightmap-FirstPass' - Setting to default shader.
+Platform assembly: C:\Users\jeffrey\Documents\Jeffrey Kain GTO4\GTO4 Game J.K_Data\Managed\System.dll (this message is harmless)
